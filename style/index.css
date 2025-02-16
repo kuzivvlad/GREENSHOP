@@ -24,7 +24,7 @@ footer, header, hgroup, menu, nav, section {
     display: block;
 }
 body {
-    margin-top: min(100px);
+    margin-top: min(120px);
     line-height: 1;
 }
 ol, ul {
